@@ -3,8 +3,8 @@ keygen-python is a project that provide a password generator that create passwor
 
 ## To use
 To use the application just run:
-ˋˋˋ
+~~~bash
 cd /src
 py Keygen.py
-ˋˋˋ
+~~~
 
