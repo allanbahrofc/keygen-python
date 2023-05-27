@@ -7,4 +7,5 @@ To use the application just run:
 cd /src
 py Keygen.py
 ~~~
-
+# Releases
+Just have be launched a .exe application, that you can download in the releases section in this git project.
